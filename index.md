@@ -1,6 +1,6 @@
 ## La filosofia del Post-
 
-Il materiale relativo ala primo incontro si trova [qui] (https://github.com/tubini/tubini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Il materiale relativo ala primo incontro si trova [qui] (tubini.github.io/orario.pages) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
